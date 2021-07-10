@@ -1,0 +1,17 @@
+h1{color:aqua;
+
+}
+*{
+      border:solid;
+}
+.header{
+background-color: silver;
+display: flex;
+justify-content: space-between;
+}
+.grid{
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+body{background: #190267}
